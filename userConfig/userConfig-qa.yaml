@@ -1,0 +1,6 @@
+
+env:
+  name: qa
+  
+service:
+  type: userService
