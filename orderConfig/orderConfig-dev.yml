@@ -1,6 +1,6 @@
 
 env:
-  name: dev
+  name: develop
   
 service:
   type: orderService
