@@ -1,0 +1,6 @@
+
+env:
+  name: default
+  
+service:
+  type: default

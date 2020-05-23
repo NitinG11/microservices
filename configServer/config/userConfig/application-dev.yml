@@ -1,0 +1,6 @@
+
+env:
+  name: dev
+  
+service:
+  type: userService
