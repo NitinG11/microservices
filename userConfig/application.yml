@@ -1,6 +1,0 @@
-
-env:
-  name: default
-  
-service:
-  type: userService
