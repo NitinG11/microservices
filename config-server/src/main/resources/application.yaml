@@ -1,0 +1,8 @@
+
+env:
+  name: default
+spring:
+  application:
+    name: config-server
+
+# default values

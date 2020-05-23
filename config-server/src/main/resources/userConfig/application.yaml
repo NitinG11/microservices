@@ -1,0 +1,9 @@
+
+env:
+  name: default
+spring:
+  application:
+    name: user-config-server
+
+user:
+  profile: admin

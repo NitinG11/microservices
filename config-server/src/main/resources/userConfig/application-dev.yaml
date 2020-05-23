@@ -1,0 +1,9 @@
+
+env:
+  name: dev
+spring:
+  application:
+    name: user-config-server
+
+user:
+  profile: development
